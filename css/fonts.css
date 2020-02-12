@@ -1,0 +1,8 @@
+@font-face {
+  font-family: 'NotoSans';
+  src: url('fonts/notoSans/NotoSans-Regular.ttf') format('truetype'); 
+}
+@font-face {
+  font-family: 'Lobster';
+  src: url(fonts/Lobster1.3/Lobster_1.3.otf) format('opentype');
+}
